@@ -2,11 +2,11 @@ import smtplib, ssl
 
 port = 587  # For starttls
 smtp_server = "smtp.gmail.com"
-sender_email = "my@gmail.com"
-receiver_email = "your@gmail.com"
-password = input("Type your password and press enter:")
+sender_email = "roykishan@gmail.com"
+receiver_email = "kishanroy37017@gmail.com"
+password = 732595@ki
 message = """\
-Subject: Hi there
+Subject: 95 percent accuracy achieved
 
 This message is sent from Python."""
 
